@@ -6,7 +6,7 @@
     <item id="AffectedVersions">Affected Version</item>
     <item id="Component">Component</item>
     <item id="Components">Components</item>
-    <item id="Item">Issue</item>
-    <item id="Items">Issues</item>
-    <item id="ItemsFound">Issues</item>
+    <item id="Item">Claim</item>
+    <item id="Items">Claims</item>
+    <item id="ItemsFound">Claims</item>
 </Resource>
